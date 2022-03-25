@@ -1,2 +1,2 @@
 # M1_College_Election_System
-Naming Convention : "M1_Simplifying elections in college"
+Naming Convention : "Simplifying the elections that are being conducted in the colleges"
