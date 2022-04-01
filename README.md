@@ -4,8 +4,8 @@
 
 <p align="center">
   <img 
-    width="500"
-    height="500"
+    width="300"
+    height="300"
     src="(https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/blob/main/1_Requirements/readme.png)"
   >
 </p>
