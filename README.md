@@ -5,6 +5,7 @@
 [![Unit testing](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/actions/workflows/unit-test.yml/badge.svg)](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/actions/workflows/unit-test.yml)
  
 [![cppcheck-action](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/actions/workflows/cppcheck.yml)
+[![Codacy Security Scan](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/actions/workflows/codacy.yml/badge.svg)](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/actions/workflows/codacy.yml)
 
  - The main objective of **"Movie Ticket Booking System"** is to simplify the way of booking tickets and making the customer to know about the booked tickets and select seats as per their convinience. 
 - The project is Totally built adinistrative end and the administrative will have Full access to it.
