@@ -22,10 +22,10 @@
 
 |Folder| Description|
 |------|----------|
-|*0_Certificates*|certificates / screenshots of cources that i have completed to do this proect|
-|*1_Requirements*	|Documents detailing requirements and research|
-|*2_Design*|Requirements specifying the design details
-|*3_Implementation*|	All code and documentation
-|*4_Test_Plan_and_Output*|Documents with test plans and procedures|
+|[*0_Certificates*](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/tree/main/0_Certificates)|certificates / screenshots of cources that i have completed to do this proect|
+|[*1_Requirements*](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/tree/main/1_Requirements)|Documents detailing requirements and research|
+|[*2_Design*](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/tree/main/2_Design)|Requirements specifying the design details
+|[*3_Implementation*](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/tree/main/3_Implimentation)|	All code and documentation
+|[*4_Test_Plan_and_Output*](https://github.com/UVishnuPrasad/M1_Movie_Ticket_booking_system/tree/main/4_Test_Plan_and_Output)|Documents with test plans and procedures|
 
                                                                              Helping Source - Google
