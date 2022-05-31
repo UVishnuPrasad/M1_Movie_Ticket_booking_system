@@ -28,4 +28,4 @@
 |*3_Implementation*|	All code and documentation
 |*4_Test_Plan_and_Output*|Documents with test plans and procedures|
 
-                                                                             Helping source - Google
+                                                                             Helping Source - Google
